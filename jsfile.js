@@ -1,4 +1,4 @@
 a = 10;
 b = 20;
 c =a*b;
-console.log();
+console.log();my practice in gitflow
