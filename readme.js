@@ -10,3 +10,4 @@ console.log(c);
 =======
 console.logThis is the merging test command
 >>>>>>> Features
+This is Test Commit
